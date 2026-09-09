@@ -1,0 +1,4 @@
+# File ini cuma buat mancing Git supaya folder "sessions/" ini
+# tetap ke-push ke GitHub walau isinya kosong.
+# Git secara default gak nge-track folder kosong -- jadi pas di-push
+# folder ini hilang. File .gitkeep ini bikin folder-nya tetap ada.
