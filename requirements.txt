@@ -1,0 +1,6 @@
+pyrogram==2.0.106
+tgcrypto==1.2.5
+b2sdk==2.4.0
+gspread==6.1.2
+google-auth==2.29.0
+python-dotenv==1.0.1

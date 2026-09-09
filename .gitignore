@@ -1,0 +1,6 @@
+.env
+service_account.json
+sessions/*
+!sessions/.gitkeep
+__pycache__/
+*.pyc
